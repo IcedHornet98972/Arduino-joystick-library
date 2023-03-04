@@ -6,6 +6,7 @@ Instruction for using:
 
 1. Install the file
 2. Open Arduino IDE
+3. Include .zip library
 3. Before setup write "#include <Joy.h>" and "Joy joy(URX(x), URY(y), SW(button));" you can use instead of joy your variable
 
 Commands:
